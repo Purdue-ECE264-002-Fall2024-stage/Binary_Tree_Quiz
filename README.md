@@ -24,4 +24,4 @@ Will produce output
 - All the values in the binary tree will fit in a 32 bit integer
 
 # Instructions
-Implement the function and submit helper.c to the gradescope assignment when complete. Make sure to test your program. There will be one test case and a makefile provided. Feel free to write your own tests as well.
+Implement the function and submit helper.c to the gradescope assignment when complete. Make sure to test your program. There will be one test case and a makefile provided. Feel free to write your own tests as well. You are permitted to add any struct definitions/helper functions to the helper.c file.
